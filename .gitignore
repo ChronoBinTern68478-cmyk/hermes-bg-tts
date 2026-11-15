@@ -1,0 +1,5 @@
+BgTTS-38M-V2/
+*.zip
+*.wav
+venv*/
+__pycache__/
