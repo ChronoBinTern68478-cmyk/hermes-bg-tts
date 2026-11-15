@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./BgTTS-38M-V2"
+    ]
+}
