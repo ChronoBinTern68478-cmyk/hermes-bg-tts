@@ -3,7 +3,7 @@ from datetime import datetime
 
 # Опитваме се да заредим истинския базов клас на Hermes
 try:
-    from hermes.plugins import TTSProvider
+    from hermes.plugins import TTSProvider  # type: ignore
 except ImportError:
     # Ако Hermes не е инсталиран, използваме тестов клас
     class TTSProvider:
