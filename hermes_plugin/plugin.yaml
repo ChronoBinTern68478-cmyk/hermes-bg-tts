@@ -1,0 +1,3 @@
+name: bg-tts
+version: 1.0.0
+description: "Български TTS плъгин (BgTTS-38M-V2) за Hermes Agent"
